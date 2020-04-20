@@ -5,6 +5,10 @@
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 
+# ignore data files printed in txt
+gitHpage.txt
+gitHrepos.txt
+
 # Remove previous ipynb_checkpoints
 #   git rm -r .ipynb_checkpoints/
 #
